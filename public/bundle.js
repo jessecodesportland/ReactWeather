@@ -26637,7 +26637,7 @@
 	'use strict';
 
 	var React = __webpack_require__(1);
-	// 
+	//
 	// var Examples = React.createClass({
 	//   render: function () {
 	//     return (
@@ -26651,7 +26651,7 @@
 	  return React.createElement(
 	    'h3',
 	    null,
-	    'Examples Component'
+	    'Examples Component!'
 	  );
 	};
 	module.exports = Examples;
