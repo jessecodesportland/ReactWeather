@@ -25077,7 +25077,7 @@
 	  return React.createElement(
 	    'h3',
 	    null,
-	    'It\'s it ',
+	    'It is ',
 	    temp,
 	    ' in ',
 	    location,
